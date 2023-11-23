@@ -12,7 +12,7 @@
        $_SESSION['logado']=$name;
        if($adm==1)
        {
-         header("Location:adm.html"); //criar pg adm
+         header("Location:testando.php"); //criar pg adm
        }
        if($adm==0)
        {
